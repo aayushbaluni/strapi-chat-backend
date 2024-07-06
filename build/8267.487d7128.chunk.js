@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkchat_app_backend=self.webpackChunkchat_app_backend||[]).push([[8267],{78267:(s,e,a)=>{a.r(e),a.d(e,{REVIEW_WORKFLOW_STAGE_SORT_OPTION_NAME:()=>_});const _={value:"strapi_stage[name]",label:{id:"settings.defaultSortOrder.reviewWorkflows.label",defaultMessage:"Review Stage"}}}}]);
