@@ -2,9 +2,6 @@
   "name": "chat-app-backend",
   "private": true,
   "version": "0.1.0",
-  "engines":{
-    "node":"18.18.2"
-  },
   "description": "A Strapi application",
   "scripts": {
     "develop": "strapi develop",
@@ -33,7 +30,7 @@
     "uuid": "4263bebc-ae66-4e9d-99aa-f2d953f5b184"
   },
   "engines": {
-    "node": ">=18.0.0 <=20.x.x",
+    "node": ">=18.0.0 <=20.0.0",
     "npm": ">=6.0.0"
   },
   "license": "MIT"
